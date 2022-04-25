@@ -1,6 +1,6 @@
 # Simple chat bot system
 
-##### Details of the project realized:
+##### Details of the project realized
 
 This is a simple chatbot system project in C# programming language. This project is based on the concept of artificial intelligence. Here the bot will reply your queries if it matches its question pattern.
 
